@@ -7,4 +7,4 @@ This notebook answers the following questions using imdb data among a few other 
 4. what rating and how many ratings did the average movie get in 2018? and how did that change from 2017?
 5. has average movie runtime changed over the years?
 
-<img src 'file:///C:/Users/aacjp/OneDrive/Desktop/Mod1_project.pdf'>
+![]('file:///C:/Users/aacjp/OneDrive/Desktop/Mod1_project.pdf'.png)
